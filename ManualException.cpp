@@ -20,5 +20,5 @@ int main()
     {
         cout << "default pengeculian dieksekusi" << endl;
     }
-    
+    return 0;
 }
